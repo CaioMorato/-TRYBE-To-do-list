@@ -20,3 +20,8 @@
 ### Abaixo minha nota e os requisitos solicitados
 
 ![image](https://user-images.githubusercontent.com/68545727/118412568-1a13d880-b671-11eb-972c-7a078aa9b117.png)
+
+# - Imagens do projeto:
+![image](https://user-images.githubusercontent.com/68545727/120835285-80866b00-c53a-11eb-9d8e-3a6c14bf7acb.png)
+
+![image](https://user-images.githubusercontent.com/68545727/120835371-9e53d000-c53a-11eb-99ce-4d8f7389de6d.png)
